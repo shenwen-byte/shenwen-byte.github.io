@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>小汐</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://shenwen-byte.github.io/</id>
+  <link href="https://shenwen-byte.github.io/" rel="alternate"/>
+  <link href="https://shenwen-byte.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 小汐</rights>
+  <subtitle>记录技术与成长</subtitle>
+  <title>小汐</title>
+  <updated>2026-05-19T12:55:08.581Z</updated>
+  <entry>
+    <author>
+      <name>小汐</name>
+    </author>
+    <category term="随笔" scheme="https://shenwen-byte.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="hexo" scheme="https://shenwen-byte.github.io/tags/hexo/"/>
+    <category term="博客" scheme="https://shenwen-byte.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <content>
+      <![CDATA[<p>欢迎来到 <strong>小汐的技术笔记</strong> 🎉</p><p>这是我的个人技术博客，使用 <strong>Hexo</strong> + <strong>Butterfly</strong> 主题搭建，部署在 GitHub Pages 上。</p><h2 id="为什么要写博客？"><a href="#为什么要写博客？" class="headerlink" title="为什么要写博客？"></a>为什么要写博客？</h2><ul><li>📝 <strong>记录学习</strong> — 把学过的知识整理成文，加深理解</li><li>🔍 <strong>分享经验</strong> — 帮助遇到同样问题的人少走弯路</li><li>🌱 <strong>持续成长</strong> — 写作是最好的学习方式</li></ul><h2 id="博客计划"><a href="#博客计划" class="headerlink" title="博客计划"></a>博客计划</h2><p>这里将会记录我在技术学习路上的点点滴滴，包括但不限于：</p><ul><li>编程语言学习笔记</li><li>框架与工具的使用心得</li><li>项目实战经验</li><li>踩坑与解决方案</li></ul><h2 id="代码示例"><a href="#代码示例" class="headerlink" title="代码示例"></a>代码示例</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">hello</span>():</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Hello, 小汐的博客!&quot;</span>)</span><br><span class="line"></span><br><span class="line">hello()</span><br></pre></td></tr></table></figure><hr><p>期待与你一起成长 🚀</p>]]>
+    </content>
+    <id>https://shenwen-byte.github.io/posts/c989269b/</id>
+    <link href="https://shenwen-byte.github.io/posts/c989269b/"/>
+    <published>2026-05-18T16:00:00.000Z</published>
+    <summary>这是我的第一篇博客文章，欢迎来到小汐的技术笔记！</summary>
+    <title>你好，小汐的博客</title>
+    <updated>2026-05-19T12:55:08.581Z</updated>
+  </entry>
+</feed>
